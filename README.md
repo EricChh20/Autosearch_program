@@ -1,9 +1,6 @@
 # Autosearch_program
-Author: Eric Chheang
-Date: Fall 2017
 
-
-Write a C++ program to implement autocomplete for a given set of N terms 
+A C++ program to implement autocomplete for a given set of N terms 
 
 
 The application predicts how likely it is that the user is typing each query and presents to the user a list of the top-matching queries, in descending order of weight.
